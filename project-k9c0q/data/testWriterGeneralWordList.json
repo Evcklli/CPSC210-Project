@@ -1,0 +1,12 @@
+{"words": [
+    {
+        "spelling": "example1",
+        "partOfSpeech": "noun",
+        "definition": "a sample word for testing"
+    },
+    {
+        "spelling": "example2",
+        "partOfSpeech": "verb",
+        "definition": "another sample word for testing"
+    }
+]}
